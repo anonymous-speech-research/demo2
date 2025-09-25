@@ -1,0 +1,172 @@
+[
+  {
+    "audio_id": "260_123288_000034_000002",
+    "source_file": "0.src.wav",
+    "reference_file": "0.ref.wav",
+    "transcript": "We cannot even make ourselves heard by approaching our mouth close to the ear.",
+    "files": [
+      "0.units.wav",
+      "0.units_25hz.wav",
+      "0.bicodec.wav",
+      "0.stablecodec.wav",
+      "0.xcodec2.wav",
+      "0.wavtokenizer.wav",
+      "0.speechtokenizer.wav",
+      "0.mimi.wav",
+      "0.dualcodec_4l.wav"
+    ]
+  },
+  {
+    "audio_id": "8555_284447_000020_000004",
+    "source_file": "1.src.wav",
+    "reference_file": "1.ref.wav",
+    "transcript": "They marched to their chairs and seated themselves to enjoy the cruel scene their father was about to enact, and Cap'n Bill bowed to them politely and said:",
+    "files": [
+      "1.units.wav",
+      "1.units_25hz.wav",
+      "1.bicodec.wav",
+      "1.stablecodec.wav",
+      "1.xcodec2.wav",
+      "1.wavtokenizer.wav",
+      "1.speechtokenizer.wav",
+      "1.mimi.wav",
+      "1.dualcodec_4l.wav"
+    ]
+  },
+  {
+    "audio_id": "5142_36586_000011_000002",
+    "source_file": "2.src.wav",
+    "reference_file": "2.ref.wav",
+    "transcript": "When one kidney ceases to act from disease, the other increases in size, and does double work.",
+    "files": [
+      "2.units.wav",
+      "2.units_25hz.wav",
+      "2.bicodec.wav",
+      "2.stablecodec.wav",
+      "2.xcodec2.wav",
+      "2.wavtokenizer.wav",
+      "2.speechtokenizer.wav",
+      "2.mimi.wav",
+      "2.dualcodec_4l.wav"
+    ]
+  },
+  {
+    "audio_id": "4992_41806_000003_000003",
+    "source_file": "3.src.wav",
+    "reference_file": "3.ref.wav",
+    "transcript": "To night there was no need of extra heat, and there were great ceremonies to be observed in lighting the fires on the hearthstones.",
+    "files": [
+      "3.units.wav",
+      "3.units_25hz.wav",
+      "3.bicodec.wav",
+      "3.stablecodec.wav",
+      "3.xcodec2.wav",
+      "3.wavtokenizer.wav",
+      "3.speechtokenizer.wav",
+      "3.mimi.wav",
+      "3.dualcodec_4l.wav"
+    ]
+  },
+  {
+    "audio_id": "4992_41797_000025_000006",
+    "source_file": "4.src.wav",
+    "reference_file": "4.ref.wav",
+    "transcript": "Oh, mother, there's always so much spare room in your heart,--for you took in Julia and yet we never felt the difference,--won't you make a place for Olive?",
+    "files": [
+      "4.units.wav",
+      "4.units_25hz.wav",
+      "4.bicodec.wav",
+      "4.stablecodec.wav",
+      "4.xcodec2.wav",
+      "4.wavtokenizer.wav",
+      "4.speechtokenizer.wav",
+      "4.mimi.wav",
+      "4.dualcodec_4l.wav"
+    ]
+  },
+  {
+    "audio_id": "7127_75946_000029_000000",
+    "source_file": "5.src.wav",
+    "reference_file": "5.ref.wav",
+    "transcript": "\"My affairs concern myself alone, monsieur; and I have already told you I transact them without interference.\"",
+    "files": [
+      "5.units.wav",
+      "5.units_25hz.wav",
+      "5.bicodec.wav",
+      "5.stablecodec.wav",
+      "5.xcodec2.wav",
+      "5.wavtokenizer.wav",
+      "5.speechtokenizer.wav",
+      "5.mimi.wav",
+      "5.dualcodec_4l.wav"
+    ]
+  },
+  {
+    "audio_id": "8230_279154_000028_000002",
+    "source_file": "6.src.wav",
+    "reference_file": "6.ref.wav",
+    "transcript": "It does not involve a definite memory of a definite past event, but only the knowledge that something happening now is similar to something that happened before.",
+    "files": [
+      "6.units.wav",
+      "6.units_25hz.wav",
+      "6.bicodec.wav",
+      "6.stablecodec.wav",
+      "6.xcodec2.wav",
+      "6.wavtokenizer.wav",
+      "6.speechtokenizer.wav",
+      "6.mimi.wav",
+      "6.dualcodec_4l.wav"
+    ]
+  },
+  {
+    "audio_id": "1320_122617_000064_000002",
+    "source_file": "7.src.wav",
+    "reference_file": "7.ref.wav",
+    "transcript": "The little knot of Indians drew back in a body, and suffered, as they thought, the conjurer and his inspired assistant to proceed.",
+    "files": [
+      "7.units.wav",
+      "7.units_25hz.wav",
+      "7.bicodec.wav",
+      "7.stablecodec.wav",
+      "7.xcodec2.wav",
+      "7.wavtokenizer.wav",
+      "7.speechtokenizer.wav",
+      "7.mimi.wav",
+      "7.dualcodec_4l.wav"
+    ]
+  },
+  {
+    "audio_id": "7021_85628_000014_000001",
+    "source_file": "8.src.wav",
+    "reference_file": "8.ref.wav",
+    "transcript": "\"Seeing that I am so fine, I may as well go and visit the King.\"",
+    "files": [
+      "8.units.wav",
+      "8.units_25hz.wav",
+      "8.bicodec.wav",
+      "8.stablecodec.wav",
+      "8.xcodec2.wav",
+      "8.wavtokenizer.wav",
+      "8.speechtokenizer.wav",
+      "8.mimi.wav",
+      "8.dualcodec_4l.wav"
+    ]
+  },
+  {
+    "audio_id": "4507_16021_000022_000003",
+    "source_file": "9.src.wav",
+    "reference_file": "9.ref.wav",
+    "transcript": "He would be like a philologist refusing to examine a fact in language, a philosopher hesitating to scrutinize a fact in humanity.",
+    "files": [
+      "9.units.wav",
+      "9.units_25hz.wav",
+      "9.bicodec.wav",
+      "9.stablecodec.wav",
+      "9.xcodec2.wav",
+      "9.wavtokenizer.wav",
+      "9.speechtokenizer.wav",
+      "9.mimi.wav",
+      "9.dualcodec_4l.wav"
+    ]
+  }
+]
